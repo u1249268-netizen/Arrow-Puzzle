@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Out 3D",
+  "description": "A tactile 3D spatial arrow puzzle game with progressive levels, steel blockers, fragile crystal barriers, key gates, and hazard mines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
